@@ -10,7 +10,7 @@ import 'package:open_file/open_file.dart';
 
 
 const firebaseOptions = FirebaseOptions(
-  apiKey: "AIzaSyDA1D8cojamu6tOhJaXjOCD5ilM3IFLGZc",
+  apiKey: "REPLACE_WITH_YOURS",
   authDomain: "loginregistermock.firebaseapp.com",
   projectId: "loginregistermock",
   storageBucket: "loginregistermock.firebasestorage.app",
